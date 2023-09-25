@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.beef6503.css",
+    "main.js": "/todo-list/static/js/main.87ae5e8d.js",
+    "static/media/checklist.png": "/todo-list/static/media/checklist.5970fe756d4adc7c39f4.png",
+    "index.html": "/todo-list/index.html",
+    "main.beef6503.css.map": "/todo-list/static/css/main.beef6503.css.map",
+    "main.87ae5e8d.js.map": "/todo-list/static/js/main.87ae5e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.87ae5e8d.js"
+  ]
+}
